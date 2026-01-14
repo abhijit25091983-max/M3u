@@ -1367,23 +1367,3 @@ http://103.178.78.151:7505/play/a1vx/index.m3u8
 http://103.178.78.151:7505/play/a1sa/index.m3u8
 #EXTINF:-1 tvg-id="RomedyNow.in@SD",Romedy Now (576p)
 http://103.178.78.151:7505/play/a12t/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
-http://103.178.78.151:7505/play/a0v1/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
-http://103.178.78.151:7505/play/a1sd/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (720p)
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
-http://103.178.78.151:7505/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-id="AnandTV.in@SD",Anand TV (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
-http://103.167.255.18:8085/play/a0lm/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
-http://103.167.255.18:8085/play/a0l6/index.m3u8
-#EXTINF:-1 tvg-id="ZeeKannada.in@HD",Zee Kannada HD (1080p)
-http://103.167.255.18:8085/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (1080p)
-http://103.167.255.18:8085/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
-http://103.167.255.18:8085/play/a0l1/index.m3u8
