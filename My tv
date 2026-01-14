@@ -1387,19 +1387,3 @@ http://103.167.255.18:8085/play/a0n4/index.m3u8
 http://103.167.255.18:8085/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
 http://103.167.255.18:8085/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
-http://103.167.255.18:8085/play/a0l3/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
-http://103.167.255.18:8085/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
-http://103.167.255.18:8085/play/a0ko/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://103.167.255.18:8085/play/a0m9/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
-http://103.167.255.18:8085/play/a0le/index.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
-http://103.167.255.18:8085/play/a0n9/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-http://103.167.255.18:8085/play/a0ke/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
-http://103.167.255.18:8085/play/a0kf/index.m3u8
