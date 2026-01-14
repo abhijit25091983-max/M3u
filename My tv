@@ -1,0 +1,17 @@
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.svg",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjcxNzY3NTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kCIvdlod-rl-8psG9H5NSkckaOEOFsXx5P13QE5F6Bi1panwTepDoP2QZH9IYOmxiEaUlVqRJrQ6053nZMDuSfVRnZnt4RziKQgryt9mc9v9Ps1nZw0SaKepkPBhHMHn~8sH0nFz~D4hwX8zLMCom1YNXs0IuKcMp6WCfKa~x9dRY9kgCcTMh8Y80l~uXkE6dPuqFLWWYJcbgtj~zKJ7xoZQpzY1hHFELBA5oua1zkk~9~JZbj77UuqnMi8tlyMas3evREmGGq-61hrhFkXMzKfiRE033Hr-qdnFs9SEO79zPEf5XZ~bxi2hX4a6LmXl-WmGj1CUYX1yAtHHRJue0g__
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.svg",KBS1
+https://tv.iill.top/kbs/11&p=0
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.svg",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjY0NjI1ODR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=FVQsrW2F5MLoE4zX4WgL8mpqvzk7fqI1PdsR1Z2HkzVL4hRgV4sTufqC~lNjE~hiEuWDo5ivXhjavjYpwenCSmMm2LFKbSJXl70-WDX4d-~V4~cdjXgC~exp4NX~kOtqzUwDySSmwKOhjfzt~yaPDrUzXLnRlt3NWcPPbtOeh3mB0gg~dEbM~iX5OXjVSIH34Ll7wJ6gM9uxc4CMQSjqZ4fc9xF-qLmEpuEPPX8ZFIRCSSz-SR4f30Byydtg2RP0LoSxRqZkyT4IXTKffZ2vAeea6Zx-X1r2QjHwmt7UI4MCBigZvCynuFNyAN2C7EDEbSrU~rW0-cAugrNGzPxWsQ__
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.svg",KBS2
+https://tv.iill.top/kbs/12&p=0
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91__white-color.svg",KBS DRAMA
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3MTc3NjgzfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jNC1QNchmsvz5-AG7Pxp8boI6zIWQj8VF9T-E0C4-k~x~58O-FgToUhDLYyt~dxr4Cjz9FPY481mSdEiERzQxjJ-XARNgFOR1X8~BMeua9areYmaKkCmoG4EqTVckCU6Laz-jTqzEld-nJHrQQvHH-htPJM1d81BWT0Rw47plvWH3t1g3oQ7Uhp-6q8oHLhLjeXCClEN1Hu1Lrm48rpMZmhOAsWrLjBDKCpZyp9EITW4yJKFRf00MU3g~vYe-VXTJLP9k6e73KC6OzfCzjh69jWHMljAp7~XNs0pCvXViulQQ~gExS~i3zfZgeLBiq3z73DKAT0OnhEJylkReRnwQg__
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94__white-color.svg",KBS STORY
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2Jzbncparameter is either empty or invalid.GVzc1RoYW4iOnsiQVdparameter is either empty or invalid.V19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MbbP~3StezxWtOBRdd9SLxUnE3yCM5BW0C3wpyQSDmexylswcsYMhtG6YpZ~m-koGhCEOvRz7hTkAvtEfl~JdOyLrS2yjrq83Wjjd3K~2VpDz~YWKuq69UUFgfbhC7Kp4utXdSWMyERlNCt~4ri-f-~LLZVAYiXptkZjH8CMAEm3KnrgTiB84rExNHklycC4v0HoGNmzq-FkhKT~G2yNfS3aPAlkfs7BuV2q4ilNUAldXxWOuZ3lWvil25r4MylXmyqfvByMlUeoydzMXZna0vrMAbIcLaAS~ixe6513GakaO7CRQ3Ib3yeXXRMIKIDmZ9pAy2YWDbShATRkU3QmEQ__
