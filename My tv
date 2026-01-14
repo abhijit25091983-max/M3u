@@ -1403,11 +1403,3 @@ http://103.167.255.18:8085/play/a0n9/index.m3u8
 http://103.167.255.18:8085/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
 http://103.167.255.18:8085/play/a0kf/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
-http://103.167.255.18:8085/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://103.178.78.151:7505/play/a0vv/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-http://103.178.78.151:7505/play/a1gd/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
-http://103.178.78.151:7505/play/a1ge/index.m3u8
